@@ -1,7 +1,7 @@
 module.exports = {
 
-    dabase: {
-        URI: 'mongodb://localhost/dbimgshare'
+    database: {
+        URI: 'mongodb://localhost:27017/dbimgshare'
     }
 
 };
