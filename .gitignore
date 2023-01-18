@@ -1,5 +1,6 @@
 READMEMine.md
 package-lock.json
 node_modules
-testFile.py
-src/key.js
+testFile
+key
+.gitignore
